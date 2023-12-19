@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NS3SO0BsT+BsBeGds8uTtbn9JkCu/0nqkXvnyiEEUMc=",
+  "Hash": "DUCdOOE+PDVaY8PbRSqvwHtoPLwoh/3sn/SmpDs9/MY=",
   "Source": "PartyInvites",
   "BasePath": "_content/PartyInvites",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/joynalabedin/Documents/DotNetMVC/Adam Freeman (DotNet)/PartyInvites/PartyInvites/wwwroot/css/styles.css",
+      "SourceId": "PartyInvites",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/joynalabedin/Documents/DotNetMVC/Adam Freeman (DotNet)/PartyInvites/PartyInvites/wwwroot/",
+      "BasePath": "_content/PartyInvites",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
     },
     {
       "Identity": "/Users/joynalabedin/Documents/DotNetMVC/Adam Freeman (DotNet)/PartyInvites/PartyInvites/wwwroot/favicon.ico",

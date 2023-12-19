@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/Users/joynalabedin/Documents/DotNetMVC/Adam Freeman (DotNet)/PartyInvites/PartyInvites/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
       "Id": "/Users/joynalabedin/Documents/DotNetMVC/Adam Freeman (DotNet)/PartyInvites/PartyInvites/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
     },
